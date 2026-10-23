@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Secrets / local environment
+.env
+.env.*
+!.env.example
+
+# Local assistant data
+jarvis_notes.txt
+screenshots/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
